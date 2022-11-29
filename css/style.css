@@ -2367,7 +2367,7 @@ pre .selector-pseudo {
 }
 @media (prefers-color-scheme: light) {
   .first-screen-container {
-    background: url("/images/wallhaven-bg-light.webp") center center/cover no-repeat !important;
+    background: url("/images/zaomiao.webp") center center/cover no-repeat !important;
   }
 }
 @media (prefers-color-scheme: dark) {
@@ -2376,7 +2376,7 @@ pre .selector-pseudo {
   }
 }
 .light-mode .first-screen-container {
-  background: url("/images/wallhaven-bg-light.webp") center center/cover no-repeat !important;
+  background: url("/images/zaomiao.webp") center center/cover no-repeat !important;
 }
 .dark-mode .first-screen-container {
   background: url("/images/wallhaven-bg-dark.webp") center center/cover no-repeat !important;
